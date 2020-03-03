@@ -4,7 +4,7 @@
    font-family: Helvetica, Arial;
    font-size: 20px;
 }
-tempPic.resize {
+.pic.resize {
   width:10px;
   height:50px;
   float: right;
