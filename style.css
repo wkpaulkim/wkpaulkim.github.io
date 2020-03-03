@@ -1,18 +1,30 @@
-h1 {
+
+.name {
    color: #000000;
-   font-family: Arial, Helvetica;
-   font-size: 15px;
+   font-family: Helvetica, Arial;
+   font-size: 20px;
 }
 tempPic.resize {
   width:10px;
   height:50px;
-   
-  max-width:30%;
-  max-height:30%;
+  float: right;
+
 }
-.center {
+.pic {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
+  width: 20%; //what is this?
+}
+
+.role{
+  text-align: center;
+  font-family: Helvetica, Arial;
+  font-size: 15px;
+}
+
+.introP{
+  text-align: center;font-family: Helvetica, Arial;
+  font-size: 15px;
+
 }
