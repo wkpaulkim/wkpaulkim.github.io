@@ -10,3 +10,9 @@ Temp Pic.resize {
   max-width:50%;
   max-height:50%;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
